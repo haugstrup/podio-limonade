@@ -1,0 +1,3 @@
+[submodule "vendor/podio-php"]
+	path = vendor/podio-php
+	url = git@github.com:podio/podio-php.git
